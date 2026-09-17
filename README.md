@@ -10,8 +10,6 @@
   <a href="mailto:manavamehta2701@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=manav2701&style=flat-square&color=4F9DFF&label=Profile+views" />
-
 </div>
 
 ---
@@ -79,8 +77,6 @@ Software engineer building AI agent systems and the backend infrastructure behin
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=manav2701&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F9DFF&icon_color=4F9DFF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav2701&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F9DFF&text_color=C9D1D9&langs_count=8" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manav2701&bg_color=0D1117&color=C9D1D9&line=4F9DFF&point=FFFFFF&area=true&hide_border=true" width="98%" />
 
 </div>
 
