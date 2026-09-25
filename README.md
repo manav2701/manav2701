@@ -69,19 +69,6 @@ Software engineer building AI agent systems and the backend infrastructure behin
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manav2701&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F9DFF&icon_color=4F9DFF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav2701&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F9DFF&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
----
-
 <div align="center">
 <sub>Open to conversations about AI agent infrastructure, backend systems, and anything unreasonably technical.</sub>
 </div>
